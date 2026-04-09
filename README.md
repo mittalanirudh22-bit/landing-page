@@ -61,13 +61,7 @@ git clone https://github.com/your-username/landing-page.git
 
 ## 🌐 Live Demo
 
-👉 [Click here to view live project](#)
-
----
-
-## 📸 Screenshots
-
-(Add screenshots after deployment)
+👉 https://landing-page-bice-omega-91.vercel.app/
 
 ---
 
@@ -81,6 +75,9 @@ git clone https://github.com/your-username/landing-page.git
 ---
 
 ## 👨‍💻 Author
+
+Anirudh Mittal
+
 
 **Your Name**
 
